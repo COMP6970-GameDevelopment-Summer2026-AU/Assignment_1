@@ -1,6 +1,6 @@
 # DODGE 2D — Jahidul Arafat Edition
 
-> **Assignment 1** | COMP 6910 Game Development | Summer 2026
+> **Assignment 1** | COMP 6970 Game Development | Summer 2026
 > Extended from the original [Dodge2D](https://github.com/ajariwala1/Dodge2D) project
 
 ---
